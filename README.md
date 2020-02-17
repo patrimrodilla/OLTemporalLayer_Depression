@@ -1,6 +1,8 @@
 # OLTemporalLayer_Depression
 
+Initial Implementation Attribution: Conde, A. (2018). Neuw84 Github account: c-value algortihm implementation. Retrieved from https://github.com/Neuw84/CValue-TermExtraction
 
+Temporal Layer Changes:
 Author: Martin-Rodilla, P. 2020
 
 Lecturer & Researcher
